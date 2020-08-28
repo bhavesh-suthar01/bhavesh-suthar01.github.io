@@ -1,6 +1,0 @@
-.hello {
-    font-size:60px;
-} 
-.hello:before {
-    content: "\f09a";
-}
