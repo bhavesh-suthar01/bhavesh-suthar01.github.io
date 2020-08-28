@@ -136,10 +136,12 @@
 
 
 /* WIDTH */
-.innerwidths {
+.checkwidth {
     width: 100%;
     height: 100px;
     background: blue;
+    text-align: center;
+    font-size: 30px;
 }
 
 
